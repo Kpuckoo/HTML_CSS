@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+
+
+p, h1,ol {
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    padding: 1px;
+}
+
+
+ol {
+    background-color: aquamarine;
+    color: darkslategray;
+}
